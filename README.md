@@ -53,7 +53,8 @@ The configuration is structured in blocks. The advantage of doing this is that b
 
 The first block indicates what cloud provider i am using, in my main.tf is aws in us-east-1. The second block provisions what resource i am using, so in this case i amd using amazon S3 bucket. The third block manages the permissions to access the s3 bucket.
 
-![Image](http://learn.nextwork.org/motivated_beige_majestic_sea_cucumber/uploads/aws-devops-terraform1_ljvh9876)
+<img width="1512" height="982" alt="Screenshot 2025-10-26 at 7 53 12 PM" src="https://github.com/user-attachments/assets/4b66f92b-a200-4d71-bac8-90afe454278d" />
+
 
 ---
 
