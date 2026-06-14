@@ -64,7 +64,7 @@ For my project extension, I visited the official Terraform documentation to crea
 
 I customized the S3 bucket configuration by adding a resource tag. This practice ensures proper asset governance and simplifies resource identification and filtering when querying cloud assets. I will confirm the successful application of this customization by running the Terraform configuration file and inspecting the resulting bucket attributes.
 
-<img width="1000" height="1000" alt="Screenshot 2025-10-26 at 7 48 25 PM" src="https://github.com/user-attachments/assets/617e72ab-073a-478d-b483-25860e229a9c" />
+<img width="500" height="250" alt="Screenshot 2025-10-26 at 7 48 25 PM" src="https://github.com/user-attachments/assets/617e72ab-073a-478d-b483-25860e229a9c" />
 
 ---
 
